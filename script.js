@@ -1,6 +1,6 @@
 // You can change name, score, and gain here
 let students = [
-  { name: "Rohan", score: 78, gain: 30 },
+  { name: "Rohan", score: 222, gain: 8 },
   { name: "Ritika", score: 74, gain: 50 },
   { name: "Amit", score: 85, gain: 3 },
   { name: "Priya", score: 69, gain: 7 },
